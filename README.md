@@ -40,7 +40,7 @@ The analysis was performed using **Python** in a **Kaggle** environment, pulling
 * `results/`: High-resolution plots and validation metrics.
 
 ## 🎓 Author
-**[Your Name]** PhD Candidate - Mathematical Epidemiology  
+**[Gehad Alneel Abdall]** PhD Candidate - Mathematical Epidemiology  
 *Focusing on the intersection of Climate Change, Human Behavior, and Vector-Borne Diseases.*
 
 ---
